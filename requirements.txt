@@ -2,4 +2,4 @@ more_itertools==8.2.0
 Django==3.1.2
 environs==8.0.0
 openpyxl==3.0.5
-Pillow==7.2.0
+Pillow==8.1.1
